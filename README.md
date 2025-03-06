@@ -59,7 +59,6 @@ Salut ! Je suis Gabriel, un passionné de physique nucléaire et de pédagogie. 
 ## 📫 Me contacter  
 - **Email** : [gburygabriel@icloud.com](mailto:gburygabriel@icloud.com)  
 - **LinkedIn** : [gabrielboutry](https://www.linkedin.com/in/gabrielboutry)  
-- **Téléphone** : +33 (0)6 21 47 55 31  
 
 ---
 
