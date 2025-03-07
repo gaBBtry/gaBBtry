@@ -4,7 +4,7 @@
 ---
 
 ## 👋 À propos de moi  
-Salut ! Je suis Gabriel, un passionné de physique nucléaire et de pédagogie. Actuellement en Master à **IMT Atlantique**, je travaille chez **EDF (CNPE Chinon)** comme apprenti formateur tout en visant un doctorat en modélisation des réacteurs. Mon ambition : contribuer à l’avenir du "nouveau nucléaire" via la R&D et la simulation.
+Passionné de physique nucléaire, actuellement en Master à **IMT Atlantique**, je travaille chez **EDF (CNPE Chinon)** comme apprenti formateur tout en visant un doctorat en modélisation des réacteurs. Mon ambition : contribuer à l’avenir du nouveau nucléaire via la R&D et la simulation.
 
 ---
 
@@ -12,13 +12,13 @@ Salut ! Je suis Gabriel, un passionné de physique nucléaire et de pédagogie. 
 
 ### Programmation & Simulation  
 - **Python & C/C++** : Analyse numérique, data science, IA, POO  
-- **MATLAB** : Traitement du signal, modélisation  
-- **Geant4 & Serpent 2** : Simulations Monte-Carlo pour le nucléaire  
+- **MATLAB/Octave** : Traitement du signal, modélisation  
+- **Geant4 & Serpent** : Simulations Monte-Carlo (rayonnements/matière & neutroniques)
 - **Git/GitHub** : Versioning et projets collaboratifs  
 
 ### Outils  
 - **LaTeX** : Rédaction scientifique  
-- **Shell (Linux/macOS)** : Automatisation avancée  
+- **Shell (Linux/macOS)** : Automatisation  
 - **AGILE** : Gestion de projets  
 
 ### Langues  
@@ -43,22 +43,8 @@ Salut ! Je suis Gabriel, un passionné de physique nucléaire et de pédagogie. 
 - **Apprenti ingénieur formateur** @ EDF CNPE Chinon (depuis 2024)  
   Formation en physique nucléaire, outils VR, supports pédagogiques.  
 - **Stagiaire enseignant** @ Saint Joseph du Loquidy (2023)  
-  Développement de méthodes pédagogiques.  
-- **Secrétaire d’examen** @ Nantes Université (2022-2023)  
-  Accompagnement d’étudiants en situation de handicap.
-
----
-
-## ⚛️ Centres d’intérêt  
-- Visites nucléaires : Chinon A1 ("La Boule"), Flamanville 3 (EPR), Orano La Hague  
-- Événements : World Nuclear Exhibition 2023  
-- Simulations de réacteurs & physique fondamentale  
-
----
-
-## 📫 Me contacter  
-- **Email** : [gburygabriel@icloud.com](mailto:gburygabriel@icloud.com)  
-- **LinkedIn** : [gabrielboutry](https://www.linkedin.com/in/gabrielboutry)  
+  Développement de méthodes pédagogiques.
+...
 
 ---
 
