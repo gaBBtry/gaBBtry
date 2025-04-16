@@ -1,5 +1,5 @@
 # Gabriel Boutry  
-**Apprenti formateur en process nucléaire | Étudiant en physique et ingénierie nucléaire | Futur doctorant en modélisation des réacteurs**
+**Apprenti formateur en process nucléaire | Étudiant en physique et ingénierie nucléaire**
 
 ---
 
@@ -13,7 +13,7 @@ Passionné de physique nucléaire, actuellement en Master à **IMT Atlantique**,
 ### Programmation & Simulation  
 - **Python & C/C++** : Analyse numérique, data science, IA, POO  
 - **MATLAB/Octave** : Traitement du signal, modélisation  
-- **Geant4 & Serpent** : Simulations Monte-Carlo (rayonnements/matière & neutroniques)
+- **Geant4, Serpent & OpenMC** : Simulations Monte-Carlo (rayonnements/matière & neutroniques)
 - **Git/GitHub** : Versioning et projets collaboratifs  
 
 ### Outils  
@@ -49,5 +49,4 @@ Passionné de physique nucléaire, actuellement en Master à **IMT Atlantique**,
 ---
 
 ## 📊 Mes stats GitHub  
-![gaBBtry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaBBtry&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaBBtry&layout=compact&theme=radical)
+![gaBBtry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaBBtry&show_icons=true&theme=radical)
